@@ -1,4 +1,4 @@
-<img src="./public/hero-tumbnail.PNG" alt="Hero Thumbnail" width="100%" height="150" style="border-radius: 8px;
+<img src="./public/hero-tumbnail.PNG" alt="Hero Thumbnail" width="100%" style="border-radius: 8px;
 object-fit: cover;
 margin: 0 auto;" />
 
